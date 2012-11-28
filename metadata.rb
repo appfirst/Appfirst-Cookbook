@@ -1,3 +1,4 @@
+name             "appfirst"
 maintainer       "Andrew Gross"
 maintainer_email "andrew@yipit.com"
 license          "All rights reserved"
