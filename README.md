@@ -73,12 +73,4 @@ License and Author
 
 Author:: Andrew Gross (<andrew@yipit.com>)
 
-Licensed under the Buy Me a Beer License
-
-
-"THE BEER-WARE LICENSE" (Revision 42):
-As long as you retain this notice you
-can do whatever you want with this stuff. If we meet some day, and you think
-this stuff is worth it, you can buy me a beer in return
-
-    http://en.wikipedia.org/wiki/Beerware
+Licensed under [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.html) 
