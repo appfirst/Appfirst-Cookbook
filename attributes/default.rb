@@ -19,8 +19,15 @@ when 'debian'
   default['appfirst']['pre_packages'] = %w(libssl0.9.8)
 end
 
-# Insert AppFirst account ID here.  Required. 
+# Insert AppFirst account ID here. Required.
 default['appfirst']['appfirst_account_id'] = 'xxxx'
+# Insert AppFirst frontend URL here. Optional.
+default['appfirst']['appfirst_frontend_url'] = 'wwws.appfirst.com'
 
 # Specify local directory where AppFirst collector should be downloaded to.
 default['appfirst']['tmp_file_location'] = '/tmp'
+
+# Specify tags to identify collected data in AppFirst
+default['appfirst']['tags'] = []
+
+default['appfirst']['apt_repo_url'] = 'http://frontend.appfirst.com/packages/debs'
